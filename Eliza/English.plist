@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>toolong</key>
+	<array>
+		<string>Slow down. Start over.</string>
+		<string>Slow down and start over.</string>
+		<string>I can&apos;t keep up, slow down.</string>
+	</array>
+	<key>tooshort</key>
+	<array>
+		<string>Go on.</string>
+		<string>Continue.</string>
+		<string>Tell me more.</string>
+	</array>
+	<key>short</key>
+	<array>
+		<string>Tell me more about --INPUT--.</string>
+		<string>Go on.</string>
+		<string>Continue.</string>
+	</array>
+	<key>keywords</key>
+	<dict>
+		<key>Sad</key>
+		<array>
+			<string>What would make you happier?</string>
+			<string>Where does this sad feeling come from?</string>
+		</array>
+		<key>Happy</key>
+		<array>
+			<string>Being happy can be healthy.</string>
+			<string>What about this makes you happy?</string>
+		</array>
+		<key>Unhappy</key>
+		<array>
+			<string>Where does this unhappy feeling come from?</string>
+			<string>Why does that make you sad?</string>
+		</array>
+		<key>Want</key>
+		<array>
+			<string>Do you mean want or need?</string>
+			<string>Where does this want come from?</string>
+		</array>
+		<key>Need</key>
+		<array>
+			<string>We all need things; what makes this special?</string>
+			<string>Do you mean need or want?</string>
+		</array>
+		<key>Like</key>
+		<array>
+			<string>What do you like about that?</string>
+			<string>What do you dislike about that?</string>
+		</array>
+		<key>Know</key>
+		<array>
+			<string>What do you really know about it?</string>
+			<string>Is that the truth?</string>
+		</array>
+		<key>Why</key>
+		<array>
+			<string>Remember, therapy is good for you...</string>
+			<string>Nobody has all the answers.</string>
+		</array>
+		<key>What</key>
+		<array>
+			<string>Why do you ask?</string>
+		</array>
+		<key>Failure</key>
+		<array>
+			<string>Strive for success.</string>
+			<string>Success is not final, failure is not fatal: it is the courage to continue that counts.</string>
+			<string>There are no secrets to success. It is the result of preparation, hard work, and learning from failure. </string>
+		</array>
+		<key>Kill</key>
+		<array>
+			<string>It is wrong to kill.</string>
+		</array>
+		<key>Murder</key>
+		<array>
+			<string>Murder is wrong.</string>
+		</array>
+		<key>You</key>
+		<array>
+			<string>Let&apos;s talk about you not me.</string>
+			<string>But --INPUT--?</string>
+		</array>
+		<key>Fuck</key>
+		<array>
+			<string>Please watch your language.</string>
+			<string>No need for swear words.</string>
+		</array>
+		<key>Love</key>
+		<array>
+			<string>It&apos;s good to have a positive outlook.</string>
+			<string>Love is often a good indicator.</string>
+		</array>
+		<key>Hate</key>
+		<array>
+			<string>Hate is such a negative word.</string>
+			<string>Stop being so negative.</string>
+		</array>
+		<key>No</key>
+		<array>
+			<string>Stop being so negative.</string>
+			<string>Try being more positive.</string>
+		</array>
+		<key>Yes</key>
+		<array>
+			<string>It&apos;s good to have a positive outlook.</string>
+			<string>I&apos;m glad you agree.</string>
+		</array>
+	</dict>
+	<key>repeats</key>
+	<array>
+		<string>Stop repeating yourself!</string>
+		<string>You already said --INPUT--!</string>
+	</array>
+	<key>responses</key>
+	<array>
+		<string>It is very interesting that you think --INPUT--.</string>
+		<string>But didn&apos;t you say &apos;--OLDINPUT--&apos;?</string>
+		<string>Tell me more about &apos;--INPUT--&apos;.</string>
+		<string>Explain &apos;--INPUT--&apos; in more detail.</string>
+		<string>What do you think about --INPUT--?</string>
+		<string>Yes but also you said --OLDINPUT--.</string>
+		<string>Okay, let&apos;s talk about something else.</string>
+		<string>Tell me more about --OLDINPUT--.</string>
+		<string>I&apos;m not sure I understand.</string>
+		<string>So --NAME--, tell me what else is on your mind?</string>
+		<string>I&apos;m not sure I understand &apos;--INPUT--&apos;.</string>
+	</array>
+	<key>openings</key>
+	<array>
+		<string>Hi, my name is Eliza, what is yours?</string>
+		<string>Hello, I am Eliza, what is your name?</string>
+	</array>
+	<key>generic</key>
+	<array>
+		<string>So, tell me what is on your mind?</string>
+		<string>I think --NAME-- is an interesting name. What gender do you identify as?</string>
+		<string>Tell me, --NAME--, did you have a happy childhood?</string>
+		<string>How do you feel about your father?</string>
+		<string>Is it okay if I call you --NAME--?</string>
+		<string>Do you have any siblings?</string>
+		<string>Tell me about your relationship with your mother.</string>
+		<string>What is new with you?</string>
+		<string>How are you on this lovely day?</string>
+	</array>
+</dict>
+</plist>

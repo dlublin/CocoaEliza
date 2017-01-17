@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>toolong</key>
+	<array>
+		<string>Allez doucement. Recommence...</string>
+		<string>Allez doucement et recommence...</string>
+		<string>Je n&apos;arrive pas a suivre, ralenti.</string>
+	</array>
+	<key>tooshort</key>
+	<array>
+		<string>Continue...</string>
+		<string>Continue...</string>
+		<string>Dit moi plus...</string>
+	</array>
+	<key>short</key>
+	<array>
+		<string>Dit moi plus de --INPUT--.</string>
+		<string>Continue...</string>
+		<string>Continue.</string>
+	</array>
+	<key>keywords</key>
+	<dict>
+		<key>Sad</key>
+		<array>
+			<string>C&apos;est quoi qui te fait rire?</string>
+			<string>D&apos;oú viens cet sentiment?</string>
+		</array>
+		<key>Happy</key>
+		<array>
+			<string>Être content peut être saine..</string>
+			<string>Quoi de ça te fait content?</string>
+		</array>
+		<key>Unhappy</key>
+		<array>
+			<string>D&apos;oú vient ce sentiment pas content?</string>
+			<string>Pourquoi tu te sens triste?</string>
+		</array>
+		<key>Want</key>
+		<array>
+			<string>Tu veux dire &quot;désir&quot; ou &quot;nécessité&quot;?</string>
+			<string>D&apos;oú viens cet désir?</string>
+		</array>
+		<key>Need</key>
+		<array>
+			<string>On a tous besoins des choses; quoi de ça est spécial?</string>
+			<string>Tu veux dire &quot;désir&quot; ou &quot;nécessité&quot;?</string>
+		</array>
+		<key>Like</key>
+		<array>
+			<string>Tu aimes quoi de ça?</string>
+			<string>Tu n&apos;aimes pas de ça?</string>
+		</array>
+		<key>Know</key>
+		<array>
+			<string>Qu&apos;est-ce que tu comprends vraiment de ça?</string>
+			<string>C&apos;est la vérité, ça?</string>
+		</array>
+		<key>Why</key>
+		<array>
+			<string>Tu te rappelles, la therapie es bien pour toi...</string>
+			<string>Personne a tous les reponses.</string>
+		</array>
+		<key>What</key>
+		<array>
+			<string>Pourquoi tu me demandes ça?</string>
+		</array>
+		<key>Failure</key>
+		<array>
+			<string>Strive for success.</string>
+			<string>Le succès n&apos;est pas définitif, l&apos;échec n&apos;est pas une fatalité: c&apos;est le courage de continuer qui compte.</string>
+			<string>Il n&apos;y a aucun secret à la réussite. C&apos;est le résultat de la préparation, du travail acharné et de l&apos;apprentissage de l&apos;échec.</string>
+		</array>
+		<key>Kill</key>
+		<array>
+			<string>Il est faut de tuer.</string>
+		</array>
+		<key>Murder</key>
+		<array>
+			<string>Le meurtre est faux.</string>
+		</array>
+		<key>You</key>
+		<array>
+			<string>On va parler de toi, pas de moi.</string>
+			<string>Mais --INPUT--?</string>
+		</array>
+		<key>Fuck</key>
+		<array>
+			<string>Veuille regarder ton langue.</string>
+			<string>Pas besoin de jurer.</string>
+		</array>
+		<key>Love</key>
+		<array>
+			<string>C&apos;est bien d&apos;avoir une perspective positive.</string>
+			<string>L&apos;amour, c&apos;est une bonne indice.</string>
+		</array>
+		<key>Hate</key>
+		<array>
+			<string>La haine, c&apos;est un mot très négatif.</string>
+			<string>Arrête d&apos;être négatif.</string>
+		</array>
+		<key>No</key>
+		<array>
+			<string>Arrête d&apos;être négatif.</string>
+			<string>Essaye d&apos;être plus positif.</string>
+		</array>
+		<key>Yes</key>
+		<array>
+			<string>C&apos;est bien d&apos;avoir une perspective positive.</string>
+			<string>Je suis content que tu es d&apos;accord.</string>
+		</array>
+	</dict>
+	<key>repeats</key>
+	<array>
+		<string>Arrête de te répeter!</string>
+		<string>Tu as déjà dit --INPUT--!</string>
+	</array>
+	<key>responses</key>
+	<array>
+		<string>C&apos;est bien intéressant ce que tu penses --INPUT--.</string>
+		<string>Mais j&apos;ai pas dit ça, &apos;--OLDINPUT--&apos;?</string>
+		<string>Dit moi plus de --INPUT--.</string>
+		<string>Explique moi --INPUT-- en plus détails.</string>
+		<string>Qu&apos;est-ce que tu t&apos;en penses de --INPUT--?</string>
+		<string>Oui, main tu a aussi dit que --OLDINPUT--.</string>
+		<string>Okie, on va parler d&apos;autres choses.</string>
+		<string>Dit moi plus de --OLDINPUT--.</string>
+		<string>Je te suis pas, j&apos;ai pas compris...</string>
+		<string>Je te suis pas, j&apos;ai pas compris &apos;--INPUT--&apos;.</string>
+	</array>
+	<key>openings</key>
+	<array>
+		<string>Salut, je m&apos;appele Eliza, c&apos;est quoi ton prénom?</string>
+		<string>Salut, je suis Eliza, tu t&apos;appèle comment?</string>
+	</array>
+	<key>generic</key>
+	<array>
+		<string>Donc, dit moi ce qui se passe dans ta tête?</string>
+		<string>T&apos;as eu une enfance heureuse?</string>
+		<string>T&apos;as haï ton père?</string>
+		<string>Dit moi de ta rélation avec ta mère.</string>
+		<string>Quoi de neuf?</string>
+		<string>Comment ça va dans cette journée magnifique?</string>
+	</array>
+</dict>
+</plist>
